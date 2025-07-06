@@ -3,7 +3,8 @@ Contacts
 •	Location: Minsk, Belarus
 •	Phone: +375 29 3779157
 •	Email: arturkupcov@mail.ru
-•	GitHub: artkuper
+•	GitHub: artkuper 
+
 About Me
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
