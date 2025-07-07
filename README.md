@@ -1,1 +1,1 @@
-https://github.com/artkuper/rsschool-cv/cv
+https://artkuper.github.io/rsschool-cv/
